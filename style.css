@@ -96,8 +96,6 @@ body {
     font-family: inherit;
     font-size: 16px;
     line-height: 2;
-    display: flex;
-    text-align: center;
     letter-spacing: 0.06em;
     color: var(--secondary-text-color);
     background-color: var(--accent-color);
@@ -174,7 +172,6 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
-    text-align: center;
     letter-spacing: 0.03em;
     color: var(--title-text-color);
     background-color: var(--third-bgd-color);
@@ -199,16 +196,14 @@ body {
 }
 
 .portfolio-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--title-text-color);
-}
+   }
 
 .portfolio-text {
-    font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 2;
     letter-spacing: 0.03em;
