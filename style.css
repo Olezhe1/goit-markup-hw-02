@@ -20,6 +20,13 @@ body {
 .link {
     text-decoration: none;
 }
+.list {
+    list-style: none;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
 
 .link:hover,
 .link:focus,
@@ -34,7 +41,7 @@ body {
 .list .active {
     color: var(--accent-color);
 }
-
+   
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -201,7 +208,7 @@ body {
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--title-text-color);
-   }
+     }
 
 .portfolio-text {
     font-size: 16px;
